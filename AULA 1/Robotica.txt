@@ -1,0 +1,88 @@
+public class Pessoa {
+ private string nome;
+ private string sobrenome;
+ private byte idade;
+ private string altura;
+ private float peso;
+
+ /* Método */
+ public void levanta { 
+ } 
+
+ public void gira ( int graus, string direcao ) { 
+ } 
+
+ public void grau45: int {
+ } 
+
+ public void grau90: int {
+ } 
+
+ public void grau180: int {
+ } 
+
+ public void grau360: int { 
+ } 
+
+ public void moverEsquerda { 
+ } 
+
+ public void moverDireita { 
+ } 
+
+ public void moverFrente { 
+ } 
+
+ public void moverTras { 
+ } 
+
+ public void passo ( int passos ) { 
+ } 
+
+ public void subir { 
+ } 
+
+ public void equilibrar { 
+ } 
+
+ public void pegarCadeira { 
+ } 
+
+ public void senta { 
+ } 
+
+ public void apoiarBraco { 
+ } 
+
+ public void pegarXicara { 
+ } 
+
+ public void beberCafe { 
+ }
+}
+
+/* Ações */
+1. Levanta
+2. Girar 90 Graus, Direita
+3. 1 Passo
+4. Girar 90 Graus, Direita
+5. 1 Passo
+6. Girar 90 Graus, Esquerda
+7. 6 Passo
+8. Girar 90 Graus, Esquerda
+9. 23 Passo
+10. Girar 90 Graus, Esquerda
+11. Ação subir
+12. Ação subir
+13. Ação equilibrar
+14. 4 Passo
+15. Girar 90 Graus, Direita
+16. 3 Passo
+17. Girar 90 Graus, Direita
+18. 3 Passo
+19. Girar 45 Graus, Direita
+20. Ação pegar cadeira
+21. Ação sentar
+22. Ação apoiar braço na mesa
+23. Ação pegar xícara
+24. Ação beber café
